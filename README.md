@@ -1,4 +1,4 @@
-# simulate-regular-2d-surface-waves
+# Simulate-regular-2d-surface-waves
 
 
 This repository contains a Python script for generating and animating ocean surface waves. The script simulates both long and short waves propagating over a spatial grid, and includes functionality to track and visualize wave height at a specific buoy location.
