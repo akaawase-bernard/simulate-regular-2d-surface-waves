@@ -37,7 +37,7 @@ This repository contains a Python script for generating and animating ocean surf
 
 3. **Run the Script**:
     ```bash
-    python wave_simulation.py
+    python 2d_wave_field.py
     ```
 
 This will generate and save frames of the wave animation in the `wave_frames` directory.
