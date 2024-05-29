@@ -42,7 +42,3 @@ This repository contains a Python script for generating and animating ocean surf
 
 This will generate and save frames of the wave animation in the `wave_frames` directory.
 
-
-## Acknowledgments
-
-This project was created by Akaawase Bernard in 2024.
